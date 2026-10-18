@@ -1,0 +1,6 @@
+{
+  "name": "Pernikahan Adat Jawa - Wita & Noval",
+  "description": "Website Undangan Pernikahan Digital Elegan Nuansa Adat Jawa dengan fitur RSVP, Galeri, Amplop Digital, dan Editor Foto Mempelai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
